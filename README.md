@@ -43,3 +43,13 @@ Python, Google Colab, Pandas, NumPy, Scikit-learn, NetworkX, Matplotlib, dan Neo
 ## Catatan
 
 Hasil analisis, query Cypher, dan visualisasi dapat dilihat pada notebook. Data RetailRocket digunakan untuk keperluan pembelajaran dan analisis graf.
+
+### Akses Dataset RetailRocket
+
+Dataset sumber yang digunakan dalam analisis adalah `events.csv` dari RetailRocket.
+
+**Unduh dataset:** [events.csv — Google Drive](https://drive.google.com/file/d/1ifDTooGf41c1oDV7EDWEKgZbtseTsPfb/view?usp=sharing)
+
+File `events.csv` berisi data interaksi pengunjung dengan item pada platform e-commerce, termasuk aktivitas `view`, `addtocart`, dan `transaction`.
+
+File `data/similarity_user.csv` pada repository merupakan hasil pengolahan Cosine Similarity antar-User.
